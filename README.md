@@ -2,7 +2,7 @@
 
 Listens to salsa music and shows the dance count (1-8) on screen, in time with the music.
 
-## Setup (Pop!_OS 22.04, Python 3.10)
+## Setup ( Python 3.10)
 
 ```bash
 sudo apt install python3-venv python3-tk libportaudio2 ffmpeg
